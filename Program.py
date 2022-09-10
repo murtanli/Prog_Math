@@ -9,6 +9,7 @@ while True:
         num2 = num
         num3 = num + num3
         print(num3)
-
+    if num == 'stop':
+        break
 
 
