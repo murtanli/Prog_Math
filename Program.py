@@ -5,6 +5,7 @@ def trans():
     if num == 666:
         print(" it's sheat !")
         num2 == 0
+        num3 == 0
 
 
 while True:
