@@ -8,8 +8,6 @@ def trans():
         num3 == 0
         nn = 21
         
-
-
 while True:
     i += 1
     num = int(input())
