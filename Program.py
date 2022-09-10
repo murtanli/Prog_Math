@@ -1,12 +1,6 @@
 i = 0
 num3 = 0
 
-def trans():
-    if num == 666:
-        print(" it's sheat !")
-        num2 == 0
-        num3 == 0
-        nn = 21
 
 while True:
     i += 1
@@ -17,12 +11,3 @@ while True:
         num2 = num
         num3 = num + num3
         print(num3)
-    if num == 666:
-        trans()
-        break
-
-
-
-
-
-
