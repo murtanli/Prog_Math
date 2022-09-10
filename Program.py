@@ -6,6 +6,8 @@ def trans():
         print(" it's sheat !")
         num2 == 0
         num3 == 0
+        nn = 21
+        
 
 
 while True:
