@@ -1,16 +1,6 @@
 i = 0
 num3 = 0
 
-<<<<<<< HEAD
-def trans():
-    if num == 666:
-        print(" it's sheat !")
-        num2 == 0
-        num3 == 0
-        ee = 1
-=======
->>>>>>> file_3
-
 while True:
     i += 1
     num = int(input())
