@@ -1,5 +1,12 @@
 i = 0
 num3 = 0
+
+def trans():
+    if num == 666:
+        print(" it's sheat !")
+        num2 == 0
+
+
 while True:
     i += 1
     num = int(input())
@@ -9,7 +16,12 @@ while True:
         num2 = num
         num3 = num + num3
         print(num3)
-    if num == 'stop':
+    if num == 666:
+        trans()
         break
+
+
+
+
 
 
