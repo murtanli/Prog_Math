@@ -1,6 +1,6 @@
 i = 0
 num3 = 0
-
+print('rr')
 while True:
     i += 1
     num = int(input())
