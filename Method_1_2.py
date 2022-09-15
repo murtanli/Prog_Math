@@ -16,4 +16,4 @@ while True:
         a = c
     if b - a < eps:
         break
-print(round(a,5))
+print(round(a,6))
