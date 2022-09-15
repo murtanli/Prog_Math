@@ -22,6 +22,17 @@ for num in x:
     y2 = (0.7 * x2 ** 3) + (2 * x2 ** 2) - 1
     p = y2.diff(x2)
     res = solve(Eq(y2,0))
-    #plt.scatter(res,0)
-    print(res)
+
+mas2 = []
+for n in res:
+    i4 = 0
+    r = ''
+    for n2 in str(n):
+        i4 += 1
+        if i4 < 16:
+            r = r + n2
+    mas.append(float(r))
+y6 = [0,0,0]
+print(mas)
+plt.scatter(mas,y6)
 plt.show()
