@@ -1,4 +1,4 @@
-import Program as pr
+import method_1.Program as pr
 m = ''
 f = open(r'C:\Users\amirm\OneDrive\Рабочий стол\Project\chisla.txt','w')
 for ch in pr.mas:
