@@ -14,7 +14,6 @@ xk = 2
 while True:
     p = (fun1(xk)*xn-fun1(xn)*xk)/(fun1(xk) - fun1(xn))
     if abs(fun1(p)) <= eps:
-        print('x=',p)
         break
 
     if fun1(xn)*fun1(xk) > 0:
@@ -23,19 +22,8 @@ while True:
         xk = p
     if abs((fun1(xk) * xn - fun1(xn) * xk) / fun1(xk) - fun1(xn) - p) <= eps:
         break
-print('x=', p)
+print('x=', round(p, 6))
 
 
 
 
-"""eps = 1/(10*10*10*10*10)
-x2 = []
-y2 = []
-for i in range(3):
-    y = fun(i)
-    x2.append(i)
-    y2.append(y)
-plt.plot(x2,y2)
-plt.show()
-a = 0
-b = 2"""
