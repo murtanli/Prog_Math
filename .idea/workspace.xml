@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6043f03-6b54-458e-a65c-906cb90c0a7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Method_2_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Method_1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Method_1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Method_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Method_2_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="C:\Users\amirm\OneDrive\Рабочий стол\Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Method_2_1">
+  <component name="RunManager" selected="Python.Program">
     <configuration name="Method_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,8 +162,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Method_2_1" />
         <item itemvalue="Python.Program" />
+        <item itemvalue="Python.Method_2_1" />
         <item itemvalue="Python.Method_1_2 (1)" />
         <item itemvalue="Python.Method_1_2" />
         <item itemvalue="Python.Method_1_1" />
@@ -187,10 +186,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
