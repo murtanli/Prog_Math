@@ -2,6 +2,7 @@ import math as mt
 
 def du(x):
     return x + mt.log(x + 0.5) + 0.5
+
 eps = 1/(10*10*10*10*10)
 a = 0
 b = 2
