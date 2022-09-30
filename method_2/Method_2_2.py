@@ -19,6 +19,7 @@ while True:
         xk = p
     if abs((fun1(xk) * xn - fun1(xn) * xk) / fun1(xk) - fun1(xn) - p) <= eps:
         break
+
 print('x=', round(p, 6))
 
 
