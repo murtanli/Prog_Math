@@ -1,14 +1,14 @@
 import math as mt
 
 def fun(x):
-    return mt.tan(x) - x
+    return x**3 - 6*x**2 + 20
 
 def fun2(x):
-    return (1/(mt.cos(x))**2) - 1
+    return 3*x**2 -12*x
 
 eps = 0.00001
 
-xn = 4.67
+xn = 2.31
 i = 0
 while True:
     xn = xn - (fun(xn)/fun2(xn))
